@@ -1,4 +1,4 @@
-# Page
+# Insight Genesis WhitePaper
 
 ### Insight Genesis WhitePaper
 
