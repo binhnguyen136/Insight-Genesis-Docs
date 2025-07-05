@@ -1,7 +1,5 @@
 # Insight Genesis WhitePaper
 
-### Insight Genesis WhitePaper
-
 **Own Your Destiny With AI Personal Insights**
 
 Revolutionizing Data Ownership through AI and Web3
